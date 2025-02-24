@@ -2,7 +2,8 @@
 
 ## 🚀 About Me  
 I'm a software development enthusiast in my final year at **Robert Gordon University (RGU)**.  
-I've worked with **Python, JavaScript, PHP, SQL, NoSQL, Java, Arduino**, and more!  
+I've worked with **Python, JavaScript, PHP, SQL, NoSQL, Java, Arduino, Batch, Bash**, and more!
+Currently I am self-teaching C#, .Net and Cloud platforms (Azure, Google Cloud and AWS)
 I also teach at **NESCol**, covering **Data Security, Python Introduction, and Ethical Hacking** at the introductory level.  
 
 ## 🎯 Currently Working On  
@@ -12,7 +13,7 @@ I also teach at **NESCol**, covering **Data Security, Python Introduction, and E
 - **Personal Growth:** Expanding my skills in **cloud computing, backend optimization, and cybersecurity**.  
 
 ## 🤝 Looking to Collaborate  
-I'm always open to collaborating on **machine learning, AI algorithms, and full-stack development projects**  
+I'm always open to collaborating on **machine learning, AI algorithms, and full-stack development projects**
 
 ## 📬 How to Reach Me  
 - **Email:** [GustavoARM@protonmail.com]  
@@ -23,5 +24,5 @@ I'm always open to collaborating on **machine learning, AI algorithms, and full-
 ## ⚡ Fun Fact  
 I love breaking things (ethically, of course) and tweaking **hardware/software**, whether it's my machines or my **home server**.  
 My favorite programming language is **Python**.  
-My favorite OS is **ParrotOS or Pop!OS**.  
+My favorite OS is **ParrotOS 🦜 or Pop!OS**.  
 My Favourite quote is "A journey of a thousand miles begins with a single step” by Lao Tzu. 
