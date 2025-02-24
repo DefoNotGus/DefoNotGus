@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Gus (a.k.a @DefoNotGus)  
+# 👋 Hey there! I'm Gus (a.k.a @DefoNotGus or Gustavo_ElProfe for my students)  
 
 ## 🚀 About Me  
 I'm a software development enthusiast in my final year at **Robert Gordon University (RGU)**.  
