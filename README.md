@@ -6,10 +6,22 @@ I've worked with **Python, JavaScript, PHP, SQL, NoSQL, Java, Arduino, Batch, Ba
 Currently I am self-teaching C#, .Net and Cloud platforms (Azure, Google Cloud and AWS)
 I also teach at **NESCol**, covering **Data Security, Python Introduction, and Ethical Hacking** at the introductory level.  
 
+## 🛠️ Just Done  
+*Here's what I've recently finished working on:*
+
+1. 🚧 **Tiny Tales** – _A not-so-tiny tale about switching stacks and battling bugs._  
+   [https://github.com/DefoNotGus/TinyTales_MEVN](#)
+
+2. 🚧 **Fire.Inc** – _My first Hackathon ever, a text_adventure Js game_  
+   [https://github.com/DefoNotGus/rguhack2025](#)
+
+3. 🚧 **A Dockerized Flask-React Image Storage** – _A simple whale app to store and manage_  
+   [https://github.com/DefoNotGus/picturesServerWithDocker](#)
+
+---
+
 ## 🎯 Currently Working On  
-- **Honours Project:** Exploring **machine learning in adaptive user interfaces** to support older adults in education.
-- **[My Portfolio / Teaching Area:](gustavoelprofe.com)** Where I aim to share my projects and content.  
-- **TinyTales:** A uni project were I will create a microfiction library website built with the **LAMP stack**, featuring user authentication, story ranking, and interactive elements.  
+- **Honours Project:** Exploring **machine learning in adaptive user interfaces** to support older adults in education. 
 - **Personal Growth:** Expanding my skills in **cloud computing, backend optimization, and cybersecurity**.  
 
 ## 🤝 Looking to Collaborate  
@@ -22,7 +34,8 @@ I'm always open to collaborating on **machine learning, AI algorithms, and full-
 - **GitHub:** Well... you're already here! 😆
 - 
 ## ⚡ Fun Fact  
-I love breaking things (ethically, of course) and tweaking **hardware/software**, whether it's my machines or my **home server**.  
-My favorite programming language is **Python**.  
-My favorite OS is **ParrotOS 🦜 or Pop!OS**.  
-My Favourite quote is "A journey of a thousand miles begins with a single step” by Lao Tzu. 
+- I love breaking things (ethically, of course) — whether it’s software or hardware!  
+- My favorite programming language is **Python** 🐍  
+- My OS ride-or-dies: **ParrotOS 🦜** and **Pop!OS 💻**  
+- Favorite quote:  
+  _"A journey of a thousand miles begins with a single step." – Lao Tzu_
