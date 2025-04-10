@@ -9,13 +9,13 @@ I also teach at **NESCol**, covering **Data Security, Python Introduction, and E
 ## 🛠️ Just Done  
 *Here's what I've recently finished working on:*
 
-1. 🚧 **Tiny Tales** – _A not-so-tiny tale about switching stacks and battling bugs._  
+1. 🆕 **Tiny Tales** – _A not-so-tiny tale about switching stacks and battling bugs._  
    [https://github.com/DefoNotGus/TinyTales_MEVN](#)
 
-2. 🚧 **Fire.Inc** – _My first Hackathon ever, a text_adventure Js game_  
+2. 🆕 **Fire.Inc** – _My first Hackathon ever, a text_adventure Js game_  
    [https://github.com/DefoNotGus/rguhack2025](#)
 
-3. 🚧 **A Dockerized Flask-React Image Storage** – _A simple whale app to store and manage_  
+3. 🆕 **A Dockerized Flask-React Image Storage** – _A simple whale app to store and manage_  
    [https://github.com/DefoNotGus/picturesServerWithDocker](#)
 
 ---
